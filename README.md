@@ -168,11 +168,8 @@ Run the following command in the relevant infrastructure directory to delete the
 
 <img src="./img/A2P-Serverless-async.png" width="700">
 
-## Contribution
+## Contribution 
 See [CONTRIBUTING](CONTRIBUTING.md) for more information.
-
-## Security
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 This library is licensed under the MIT-0 License. See the LICENSE file.
